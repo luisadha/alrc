@@ -1,1 +1,1 @@
-# alrc site installer
+# alrc updater
